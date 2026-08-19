@@ -24,7 +24,7 @@ x-status: acquired
 x-acquired-by: vmware
 x-acquired-date: '2014-02'
 x-successor-brand: VMware Workspace ONE UEM (Omnissa)
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
